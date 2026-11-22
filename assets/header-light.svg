@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Anirvan Ranjan. Machine-learning systems, robotics and native Mac software.">
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <text x="56" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2.2" fill="#59636E">B.TECH CSE · AI &amp; ML · UPES</text>
+  <text x="52" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-2.6" fill="#1F2328">Anirvan <tspan font-weight="300" fill="#59636E">Ranjan</tspan></text>
+  <text x="56" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#1F2328">Machine-learning systems, robotics and</text>
+  <text x="56" y="256" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#1F2328">native software for the Mac.</text>
+  <text x="56" y="298" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#59636E">Local-first models, <tspan fill="#9C5A00">certified thresholds</tspan>, measured results.</text>
+
+  <rect x="700.5" y="40.5" width="459" height="259" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <line x1="701" y1="78.5" x2="1159" y2="78.5" stroke="#D0D7DE"/>
+  <text x="720" y="65" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#1F2328">cost-aware-router</text>
+  <text x="1140" y="65" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#59636E">each dot is a query</text>
+  <path d="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128" fill="none" stroke="#D8DEE4" stroke-width="1.5"/>
+  <path d="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260" fill="none" stroke="#D8DEE4" stroke-width="1.5"/>
+  <line x1="884" y1="98" x2="884" y2="284" stroke="#59636E" stroke-dasharray="3 5"/>
+  <text x="892" y="108" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1F2328">τ*</text>
+  <text x="724" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#59636E">query in</text>
+  <text x="1138" y="114" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#0E7567">Qwen3.5-4B · local · $0</text>
+  <text x="1138" y="284" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#9C5A00">frontier API · paid</text>
+  <circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-0.00s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-0.00s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-0.00s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-0.28s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-0.28s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-0.28s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-0.56s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-0.56s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-0.56s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-0.84s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-0.84s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-0.84s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-1.12s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-1.12s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-1.12s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-1.40s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-1.40s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-1.40s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-1.68s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-1.68s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-1.68s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-1.96s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-1.96s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-1.96s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-2.24s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-2.24s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-2.24s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-2.52s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-2.52s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-2.52s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-2.80s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-2.80s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-2.80s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-3.08s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-3.08s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-3.08s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-3.36s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-3.36s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-3.36s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-3.64s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 260 1024 260 L 1138 260"/>
+      <animate attributeName="fill" dur="4.2s" begin="-3.64s" repeatCount="indefinite"
+        values="#59636E;#59636E;#9C5A00;#9C5A00" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-3.64s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle><circle r="4" fill="#59636E">
+      <animateMotion dur="4.2s" begin="-3.92s" repeatCount="indefinite" path="M 724 196 L 884 196 C 954 196 954 128 1024 128 L 1138 128"/>
+      <animate attributeName="fill" dur="4.2s" begin="-3.92s" repeatCount="indefinite"
+        values="#59636E;#59636E;#0E7567;#0E7567" keyTimes="0;0.38;0.44;1"/>
+      <animate attributeName="opacity" dur="4.2s" begin="-3.92s" repeatCount="indefinite"
+        values="0;0.7;0.7;1;1;0" keyTimes="0;0.05;0.38;0.44;0.94;1"/>
+    </circle>
+</svg>
